@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metafile version="3.3" client="administrator">
+	<name>Español (Formal Internacional)</name>
+
+	<version>3.3.1</version>
+	<creationDate>15-06-2014</creationDate>
+	<author>Proyecto Joomla! Spanish</author>
+	<authorEmail>joomlaspanish@joomlaspanish.org</authorEmail>
+	<authorUrl>www.joomlaspanish.org</authorUrl>
+	<copyright>Copyright (C) 2005 - 2014 Open Source Matters. Todos los derechos reservados.</copyright>
+	<license>GNU General Public License versión 2 o superior; ver LICENSE.txt</license>
+	<description>es-ES idioma administrador para Joomla 3.3.1</description>
+	<metadata>
+		<name>Español (Formal Internacional)</name>
+		<tag>es-ES</tag>
+		<rtl>0</rtl>
+        <locale>es_ES.UTF-8, spa_ES.UTF-8, es_ES, spanish.UTF-8, spanish, spa_ES, sp_ES, spain, es</locale>
+		<firstDay>1</firstDay>
+
+	</metadata>
+	<params />
+</metafile>
